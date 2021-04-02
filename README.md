@@ -10,17 +10,12 @@ In this project, we intend to use supervised learning to create predictive model
 
 ## Process
 
-
-![Diamonds](images\diamonds-everywhere.jpg)
-
-
 ### Cleaning
 
 The cleaning process starts by checking the dataset. Where it is discovered that there are categorical and numerical variables. It is also observed that there are no null values.  The useless columns are eliminated and the categorical variables are encoded, we have chosen to classify them in ordinal form, because there is an order of classification, therefore the categorical values are replaced by numerical ones taking into account the order.
 
 ### Modeling
-The models used are Linear Regression, Random Forest and Gradient Boosting Reregression.
-All of them, with standardized data.
+The models used are Linear Regression, Random Forest Reggresor using HyperOpt to select the hyperparameters, and by Pycaret select the third model, which will turn out to be LightGradientBoostingMachine.
 
 The metric used is "mean_square_error".
 
