@@ -1,6 +1,6 @@
 import zipfile
 import pandas as pd
-def descompress_zip(zip, csv):
+def unzip_zip(zip, csv):
     '''
     Unzip .zip file, obtains a .csv file from the .zip, and returns like DataFrame
 
