@@ -15,7 +15,7 @@ Predicting diamond prices using Machine Learning models.
 
 ## Data 
 
-The data data used for this project were obtained from the following [url](https://www.kaggle.com/c/diamonds-datamad0121/)
+The data data used for this project were obtained from the following [url](https://www.kaggle.com/shivam2503/diamonds)
 ## Process
 
 
