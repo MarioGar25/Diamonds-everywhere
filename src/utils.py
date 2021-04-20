@@ -7,6 +7,12 @@ def unzip_zip(zip, csv):
     Input: str (.zip file), str (.csv file)
     Return: Dataframe from .csv file in .zip file
 
+<--------------------------------------------------------------------------------------------->
+
+    Params:
+        zip: str -> path file
+        csv: str -> csv file
+
     '''
 
     #unzip the file
