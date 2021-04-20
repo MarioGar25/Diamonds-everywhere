@@ -3,3 +3,4 @@ diamonds.zip
 __pycache__
 logs.log
 images
+LightGBM_opt_tpe.pkl
