@@ -12,6 +12,13 @@ In this project, we intend to use supervised learning to create predictive model
 
 Predicting diamond prices using Machine Learning models.
 
+
+## Data 
+
+The data data used for this project were obtained from the following [url](https://www.kaggle.com/c/diamonds-datamad0121/)
+## Process
+
+
 ## Variables
 
 ### Target Variable
@@ -21,7 +28,7 @@ Predicting diamond prices using Machine Learning models.
 The target variable is the price of the diamond. 
 It has the following distribution:
 
-![TargetDistribution](output\TargetDistribution.jpg)
+![TargetDistribution](https://github.com/MarioGar25/Diamonds-everywhere/blob/main/output/TargetDistribution.jpg)
 
 
 ### Numerical Variables
@@ -45,7 +52,7 @@ The numerical variables are as follows:
 
 The numerical variables have the following distributions:
 
-![Numerical_Distribution](output\NumericalDistribution.jpg)
+![Numerical_Distribution](https://github.com/MarioGar25/Diamonds-everywhere/blob/main/output/NumericalDistribution.jpg)
 
 ### Categorical Variables
 The categorical variables are as follows:
@@ -58,12 +65,7 @@ The categorical variables are as follows:
 
 The categorical variables have the following distributions:
 
-![Categorical_Distribution](output\CategoricalDistribution.jpg)
-
-## Data 
-
-The data data used for this project were obtained from the following [url](https://www.kaggle.com/c/diamonds-datamad0121/)
-## Process
+![Categorical_Distribution](https://github.com/MarioGar25/Diamonds-everywhere/blob/main/output/CategoricalDistribution.jpg)
 
 
 ### Preprocessing
@@ -84,7 +86,7 @@ After comparing the models we can affirm that in this case the best option has t
 
 Here is a graphical comparison of the `RMSE` models:
 
-![Comparative_RMSE](output\Comparative_errors.jpg)
+![Comparative_RMSE](https://github.com/MarioGar25/Diamonds-everywhere/blob/main/output/Comparative_errors.jpg)
 
 ## Libraries
 
